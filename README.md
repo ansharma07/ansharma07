@@ -1,4 +1,5 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Anshul Sharma and I have an MS in Computer Engineering, from Blacksburg, VA.</h2>
+<h2 data-importer="text" align="left">Hi there, I'm Anshul Sharma 👋</h2>
+<h4 align="left">MS Computer Engineering @ Virginia Tech | Software Engineer | Full Stack Developer</h4>
 
 ###
 
