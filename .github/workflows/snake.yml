@@ -43,7 +43,7 @@ jobs:
           card: stats
           options: 'username=ansharma07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false'
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: push stats.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -67,7 +67,7 @@ jobs:
           card: top-langs
           options: 'username=ansharma07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false'
           path: dist/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: push languages.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
