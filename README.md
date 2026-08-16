@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Anshul Sharma and I have an MS in Computer Engineering, from Blacksburg, VA.</h2>
 
 ###
 
